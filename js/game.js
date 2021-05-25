@@ -64,7 +64,7 @@ class Game{
                          
                      }
                     
-                     //text to display player score.
+                     //texto para exibir a pontuação do jogador.
 
                      
                  
@@ -103,9 +103,9 @@ class Game{
                  }
                  
                   if (player.index !== null) {
-                     //fill code here, to destroy the objects. (Use the one in the class project 40)
-                     // add the condition to calculate the score. 
-                     //and use update() to update the values in the database.
+                     //preencha o código aqui, para destruir os objetos. (Use aquele do projeto de classe 40)
+                     //adicione a condição para calcular a pontuação. 
+                     //e use update() para atualizar os valores no banco de dados.
 
                      player.score =player.score+1;
                   }
